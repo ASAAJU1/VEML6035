@@ -1,6 +1,6 @@
 # VEML6035 Module for use with the arduino 
-#Design by BALOGUN TOBILOBA ODUNAYO
-<a>www.hyperedge.tech</a>
+# Design by BALOGUN TOBILOBA ODUNAYO
+# <a>www.hyperedge.tech</a>
 VEML6035 is a 16-bit low power, high sensitivity CMOS
 ambient light sensor operated via a simple I2C command.
 The sensor offers an active interruption feature that is
